@@ -1,3 +1,4 @@
 *.keras filter=lfs diff=lfs merge=lfs -text
 model_10_sgd29_0.9147321581840515.keras filter=lfs diff=lfs merge=lfs -text
 model_10_sgd_new25_0.9129464030265808.keras filter=lfs diff=lfs merge=lfs -text
+model_10_sgd_new29_0.9151785969734192.keras filter=lfs diff=lfs merge=lfs -text
